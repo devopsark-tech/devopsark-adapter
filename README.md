@@ -1,0 +1,1 @@
+# devopsark-adapter
